@@ -6,10 +6,7 @@ This project showcases a modern UI layout for online food services including cat
 ---
 
 ## 🚀 Live Demo
-(Add your deployed link here – Netlify / Vercel / GitHub Pages)
-
-Example:
-https://your-live-link.com
+https://food-delivery-app1223.netlify.app
 
 ---
 
@@ -81,19 +78,7 @@ project-folder/
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here)
 
----
-
-## 📬 Contact
-Developer: Huzaifa Ahmad  
-Frontend Developer
-
-LinkedIn: (Add your profile)  
-Portfolio: (Add your portfolio link)
-
----
 
 ## ⭐ Support
 If you like this project, consider giving it a star ⭐
